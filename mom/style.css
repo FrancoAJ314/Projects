@@ -105,3 +105,11 @@ iframe{
     height: auto;
     padding: 2em 0 8em 0;
 }
+
+
+.gift, .gift img{
+    aspect-ratio: 791 / 1024;
+	width:  80vw;
+    height: auto;
+    margin: auto;
+}
