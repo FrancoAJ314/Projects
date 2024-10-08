@@ -33,6 +33,9 @@ h1 {
     margin: 0px auto;
 }
 
+/* Flip Effect from http://davidwalsh.name/css-flip */
+/* entire container, keeps perspective */
+
 
 /* flip the pane when hovered */
 .flip-container.hover .flipper {
@@ -43,6 +46,7 @@ h1 {
     aspect-ratio: 4 / 7;
 	width:  80vw;
     height: auto;
+	/* height: 896px; */
 }
 
 /* flip speed goes here */
@@ -99,17 +103,58 @@ h1 {
   }
 }
 
-iframe{
-    aspect-ratio: 16 / 9;
-    width: 75vw;
-    height: auto;
-    padding: 2em 0 8em 0;
-}
-
-
 .gift, .gift img{
     aspect-ratio: 791 / 1024;
 	width:  80vw;
     height: auto;
     margin: auto;
+}
+
+/* .card {
+	width: 512px;
+    margin: 0px auto; */
+
+    /* width: 80vw; */
+    /* background-color: aliceblue; */
+    /* transform: rotateY(0deg); */
+    /* position:relative; */
+/* } */
+/* .cardContainer.hover .flipper{
+	transform: rotateY(180deg);
+
+}
+.cardContainer .front .back img{
+	width:  512px;
+	height: 340px;
+} */
+
+/* .card:hover{
+    transition: 4s;
+    background-color: blueviolet;
+} */
+
+/* .card img{
+    width: 100vw;
+}
+.card .front {
+    visibility: visible;
+    transform: translateX(50%);
+}
+.card .front:hover {
+    visibility: hidden;
+}
+.card .back {
+    visibility: hidden;
+    transform: translateX(-50%);
+    transform: rotateY(-180deg);
+}
+.card .back:hover {
+    visibility: visible;
+} */
+
+iframe{
+    aspect-ratio: 16 / 9;
+    width: 75vw;
+    height: auto;
+    padding: 2em 0 4em 0;
 }
