@@ -1,0 +1,107 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 4em;
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.head{
+    text-align: center;
+}
+
+/* .vid{
+
+} */
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+	width: 80vw;
+    margin: 0px auto;
+}
+
+
+/* flip the pane when hovered */
+.flip-container.hover .flipper {
+	transform: rotateY(180deg);
+}
+
+.flip-container, .front, .back, img {
+    aspect-ratio: 4 / 7;
+	width:  80vw;
+    height: auto;
+}
+
+/* flip speed goes here */
+.flipper {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+	transform-origin: 100% (40vw);
+  transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1.000);
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+	backface-visibility: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+	z-index: 2;
+	/* for firefox 31 */
+	transform: rotateY(0deg);
+}
+/* back, initially hidden pane */
+.back {
+	transform: rotateY(180deg);
+}
+
+
+.title-and-button {
+  /* position: relative; */
+  height: 2em;
+}
+/* toggle button */
+.toggle-btn {
+	position: absolute;
+    bottom: 0px;
+    right: 0px;
+	/* width: 4em; */
+	padding: 12px 18px;
+	border: 1px solid #dedede;
+	border-bottom-width: 0px;
+	background-color: #efefef;
+	color: #333;
+	border-radius: 8px;
+    font-size: 15px;
+    letter-spacing: 0.05em;
+    float: right;
+  
+  &:active {
+	  background-color: #dedede;
+  }
+}
+
+iframe{
+    aspect-ratio: 16 / 9;
+    width: 75vw;
+    height: auto;
+    padding: 2em 0 8em 0;
+}
