@@ -39,7 +39,7 @@ h1 {
 	transform: rotateY(180deg);
 }
 
-.flip-container, .front, .back, img {
+.flip-container, .front, .back, .card img {
     aspect-ratio: 4 / 7;
 	width:  80vw;
     height: auto;
