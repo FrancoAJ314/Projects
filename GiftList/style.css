@@ -25,6 +25,16 @@ body {
   grid-row-gap: 0;
   height: calc(100vh - 4rem);
 }
+@media (max-width: 1920px) {
+  .contentGrid {
+    grid-template-columns: 1fr 8fr 1fr;
+  }
+}
+@media (max-width: 1220px) {
+  .contentGrid {
+    grid-template-columns: 0fr 1fr 0fr;
+  }
+}
 
 .browserCol { grid-area: 1 / 2 / 2 / 3; }
 
