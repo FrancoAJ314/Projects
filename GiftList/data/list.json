@@ -7,6 +7,12 @@
   },
   {
     "id":             1,
+    "name":           "$16 A Guide to the Dragon World",
+    "purchase":       "https://www.amazon.com/Wings-Fire-Guide-Dragon-World/dp/1338634828",
+    "imageFront":     "https://m.media-amazon.com/images/I/51GFjogqRxL._SX342_SY445_.jpg"
+  },
+  {
+    "id":             2,
     "name":           "$10+ LEGO Gift Card",
     "purchase":       "https://www.lego.com/en-us/gift-cards/buy",
     "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt8032f96725133957/Ecom_1HY24_HeroBanner_Shark_Reindeer_800x600.png"
