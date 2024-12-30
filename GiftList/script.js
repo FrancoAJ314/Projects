@@ -51,7 +51,7 @@ function createCard(item) {
   template.querySelector('.card-name').textContent = item.name;
   template.querySelector('.url').href = item.purchase;
 
-  special = [10295, 76934, 42196]
+  special = [10295]
   if (special.includes(item.id) ) {
     template.querySelector(".card").classList.add("special")
   }
