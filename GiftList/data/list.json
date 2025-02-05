@@ -1,9 +1,15 @@
 [
   {
     "id":             1,
-    "name":           "$-- Raspberry Pi",
-    "purchase":       "https://www.raspberrypi.com/products/",
-    "imageFront":     ""
+    "name":           "$55 Raspberry Pi Zero W MAX Starter Kit",
+    "purchase":       "https://www.amazon.com/Vilros-Raspberry-Mutifunction-USB-Ethernet-Breakout/dp/B0C5F59XMV?th=1",
+    "imageFront":     "https://m.media-amazon.com/images/I/61wuzbgtaOL._AC_SL1080_.jpg"
+  },
+  {
+    "id":             2,
+    "name":           "$130 Raspberry Pi 5 8GB / Vilros Basic Starter Kit",
+    "purchase":       "https://vilros.com/products/raspberry-pi-5?variant=40082990366814",
+    "imageFront":     "https://vilros.com/cdn/shop/files/MetalBasicKit_6ea722d6-717a-4185-ac1a-c00e4683741b.png?v=1720726325"
   },
   {
     "id":             3,
