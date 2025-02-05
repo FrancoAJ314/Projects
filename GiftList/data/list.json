@@ -1,9 +1,9 @@
 [
   {
-    "id":             2,
-    "name":           "$96 Nothing Ear (a)",
-    "purchase":       "https://www.amazon.com/Nothing-Ear-Integration-Cancelling-Equaliser/dp/B0CXPR5412?th=1",
-    "imageFront":     "https://us.nothing.tech/cdn/shop/files/Category_Page_-_Ear_a_-_Basic_layer_-_black_29a707ff-4cd0-421b-aefb-0813af281ec5_750x.png?v=1713321750"
+    "id":             1,
+    "name":           "$-- Raspberry Pi",
+    "purchase":       "https://www.raspberrypi.com/products/",
+    "imageFront":     ""
   },
   {
     "id":             3,
@@ -16,18 +16,6 @@
     "name":           "$10 Space Shuttle",
     "purchase":       "https://www.lego.com/en-us/product/space-shuttle-31134",
     "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt35eb893e7b4c6280/31134.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
-  },
-  {
-    "id":             76907,
-    "name":           "$20 Lotus Evija",
-    "purchase":       "https://www.lego.com/en-us/product/lotus-evija-76907",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltc5ffb30fa56b54ad/76907.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
-  },
-  {
-    "id":             76914,
-    "name":           "$25 Ferrari 812 Competizione",
-    "purchase":       "https://www.lego.com/en-us/product/ferrari-812-competizione-76914",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt4d8e5ab570296ac1/76914.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
   },
   {
     "id":             76921,
@@ -76,12 +64,6 @@
     "name":           "$170 Porsche 911",
     "purchase":       "https://www.lego.com/en-us/product/porsche-911-10295",
     "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt3d62bb5d68e6dbd7/10295.jpg?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
-  },
-  {
-    "id":             10337,
-    "name":           "$180 Lamborghini Countach 5000 Quattrovalvole",
-    "purchase":       "https://www.lego.com/en-us/product/lamborghini-countach-5000-quattrovalvole-10337",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt9b3c20d77c24bafe/10337.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
   }
 ]
   
