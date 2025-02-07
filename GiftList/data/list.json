@@ -2,8 +2,8 @@
   {
     "id":             1,
     "name":           "$50 Raspberry Pi Zero 2 W MAX Kit",
-    "purchase":       "https://vilros.com/products/vilros-raspberry-pi-zero-2-w-max-kit?variant=39984855220318",
-    "imageFront":     "https://vilros.com/cdn/shop/files/VRZW2K003_VILP209_edit.jpg?v=1708984209"
+    "purchase":       "https://vilros.com/products/vilros-raspberry-pi-zero-2-w-max-kit?variant=39984855253086",
+    "imageFront":     "https://vilros.com/cdn/shop/files/K003_VILP210_edit.jpg?v=1708984209"
   },
   {
     "id":             2,
@@ -38,8 +38,8 @@
   {
     "id":             76919,
     "name":           "$27 2023 McLaren Formula 1 Race Car",
-    "purchase":       "https://www.lego.com/en-us/product/2023-mclaren-formula-1-race-car-76919",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt9895fdfc75b2854d/76919.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    "purchase":       "https://www.lego.com/en-us/product/mclaren-f1-team-mcl38-race-car-77251",
+    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltad441c9411550c97/77251_Prod_en-gb.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1"
   },
   {
     "id":             76922,
@@ -58,12 +58,6 @@
     "name":           "$50 Koenigsegg Jesko Absolut Grey Hypercar",
     "purchase":       "https://www.lego.com/en-us/product/koenigsegg-jesko-absolut-grey-hypercar-42173",
     "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltc4ee2c0da944140f/42173.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
-  },
-  {
-    "id":             21340,
-    "name":           "$50 Tales of the Space Age",
-    "purchase":       "https://www.lego.com/en-us/product/tales-of-the-space-age-21340",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt787941d23411135b/21340.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
   },
   {
     "id":             10295,
