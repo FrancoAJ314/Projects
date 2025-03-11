@@ -12,18 +12,13 @@ function parseCSV(csv) {
         Object.fromEntries(header.map((h, i) => [h.trim(), isNaN(row[i]) ? row[i] : Number(row[i])]))
     );
 }
-fetch("output.csv")
-    .then(response => response.text())
-    .then(csvText => {
-        timeline = parseCSV(csvText)
-        // drawOrbits();
-    })
+
 
 function makeOrbit(body) {    
     orbit = bodies[body]
     ctx.beginPath();
     ctx.arc(orbit["orbitCenterX"], orbit["orbitCenterY"], orbit["orbitRadius"], 0, Math.PI * 2);
-    ctx.strokeStyle = "rgba(128,128,128,0.15";
+    ctx.strokeStyle = "rgba(128,128,128,0.5";
     ctx.stroke();
     ctx.closePath();
 }
@@ -35,7 +30,7 @@ function makeBody(body) {
     ctx.fillStyle = "black";
     ctx.strokeStyle = body["color"];
     ctx.fill();
-    ctx.lineWidth = canvas.height/200;  
+    ctx.lineWidth = canvas.height/200;      
     ctx.stroke();
     ctx.closePath();
 }
@@ -253,20 +248,32 @@ function drawOrbits() {
 
 
 // Function to resize the canvas
-const dpr = window.devicePixelRatio || 1;
 function resizeCanvas() {
+    const dpr =  1;
+    // Set canvas width and height to window's inner width and height
     canvas.width = window.innerWidth * dpr;
     canvas.height = window.innerHeight * dpr;
 
-    canvas.style.width = window.innerWidth + "px";
-    canvas.style.height = window.innerHeight + "px";
+    const width = window.innerWidth;
+    const height = window.innerHeight;
 
-    ctx.setTransform(1, 0, 0, 1, 0, 0); // Reset transform before scaling
-    ctx.scale(dpr, dpr);
+    canvas.style.width = width + "px";
+    canvas.style.height = height + "px";
 
+    
+
+    // Redraw your content after resizing (if needed)
     drawOrbits();
 }
-// window.addEventListener('resize', resizeCanvas);
-setInterval(resizeCanvas, 30); // Updates every 50ms (20 FPS)
 
-// resizeCanvas();
+window.onload = setup;
+
+function setup() {
+    fetch("output.csv")
+    .then(response => response.text())
+    .then(csvText => {
+        timeline = parseCSV(csvText)
+
+        setInterval(resizeCanvas, 30); // Updates every 50ms (20 FPS)
+    })
+}
