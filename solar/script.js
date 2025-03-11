@@ -35,7 +35,7 @@ function makeBody(body) {
     ctx.fillStyle = "black";
     ctx.strokeStyle = body["color"];
     ctx.fill();
-    ctx.lineWidth = 4;
+    ctx.lineWidth = canvas.height/200;  
     ctx.stroke();
     ctx.closePath();
 }
@@ -255,19 +255,15 @@ function drawOrbits() {
 // Function to resize the canvas
 const dpr = window.devicePixelRatio || 1;
 function resizeCanvas() {
-    // Set canvas width and height to window's inner width and height
     canvas.width = window.innerWidth * dpr;
     canvas.height = window.innerHeight * dpr;
 
-    const width = window.innerWidth;
-    const height = window.innerHeight;
+    canvas.style.width = window.innerWidth + "px";
+    canvas.style.height = window.innerHeight + "px";
 
-    canvas.style.width = width + "px";
-    canvas.style.height = height + "px";
-
+    ctx.setTransform(1, 0, 0, 1, 0, 0); // Reset transform before scaling
     ctx.scale(dpr, dpr);
 
-    // Redraw your content after resizing (if needed)
     drawOrbits();
 }
 // window.addEventListener('resize', resizeCanvas);
