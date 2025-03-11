@@ -253,10 +253,19 @@ function drawOrbits() {
 
 
 // Function to resize the canvas
+const dpr = window.devicePixelRatio || 1;
 function resizeCanvas() {
     // Set canvas width and height to window's inner width and height
-    canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
+    canvas.width = window.innerWidth * dpr;
+    canvas.height = window.innerHeight * dpr;
+
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+
+    canvas.style.width = width + "px";
+    canvas.style.height = height + "px";
+
+    ctx.scale(dpr, dpr);
 
     // Redraw your content after resizing (if needed)
     drawOrbits();
