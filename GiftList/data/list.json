@@ -6,12 +6,6 @@
     "imageFront":     "https://vilros.com/cdn/shop/files/K003_VILP210_edit.jpg?v=1708984209"
   },
   {
-    "id":             2,
-    "name":           "$130 Raspberry Pi 5 8GB / Vilros Basic Starter Kit",
-    "purchase":       "https://vilros.com/products/raspberry-pi-5?variant=40082990366814",
-    "imageFront":     "https://vilros.com/cdn/shop/files/MetalBasicKit_6ea722d6-717a-4185-ac1a-c00e4683741b.png?v=1720726325"
-  },
-  {
     "id":             3,
     "name":           "$10+ LEGO Gift Card",
     "purchase":       "https://www.lego.com/en-us/gift-cards/buy",
@@ -58,12 +52,6 @@
     "name":           "$50 Koenigsegg Jesko Absolut Grey Hypercar",
     "purchase":       "https://www.lego.com/en-us/product/koenigsegg-jesko-absolut-grey-hypercar-42173",
     "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltc4ee2c0da944140f/42173.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
-  },
-  {
-    "id":             10295,
-    "name":           "$170 Porsche 911",
-    "purchase":       "https://www.lego.com/en-us/product/porsche-911-10295",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt3d62bb5d68e6dbd7/10295.jpg?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
   }
 ]
   
