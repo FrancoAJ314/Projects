@@ -1,9 +1,9 @@
 [
   {
     "id":             1,
-    "name":           "$50 Raspberry Pi Zero 2 W MAX Kit",
-    "purchase":       "https://vilros.com/products/vilros-raspberry-pi-zero-2-w-max-kit?variant=39984855253086",
-    "imageFront":     "https://vilros.com/cdn/shop/files/K003_VILP210_edit.jpg?v=1708984209"
+    "name":           "$38 Vilros Raspberry Pi Zero W Basic Starter Kit With NON Soldered Header / ABS V2 / Clear",
+    "purchase":       "https://vilros.com/products/raspberry-pi-zero-w-basic-starter-kit-1?variant=39878461718622",
+    "imageFront":     "https://vilros.com/cdn/shop/files/K001_VILP210-Copy_2.webp?v=1685367427"
   },
   {
     "id":             3,
@@ -36,22 +36,23 @@
     "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltad441c9411550c97/77251_Prod_en-gb.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1"
   },
   {
-    "id":             76922,
-    "name":           "$45 BMW M4 GT3 & BMW M Hybrid V8 Race Cars",
-    "purchase":       "https://www.lego.com/en-us/product/bmw-m4-gt3-bmw-m-hybrid-v8-race-cars-76922",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt453abebeefd0e0ce/76922.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
-  },
-  {
     "id":             76924,
     "name":           "$45 Mercedes-AMG G 63 & Mercedes-AMG SL 63",
     "purchase":       "https://www.lego.com/en-us/product/mercedes-amg-g-63-mercedes-amg-sl-63-76924",
     "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltbc71c879c160329c/76924.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
   },
   {
+    "id":             76922,
+    "name":           "$50 Lamborghini Revuelto & Huracán STO",
+    "purchase":       "https://www.lego.com/en-us/product/lamborghini-revuelto-huracan-sto-77238",
+    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltd322b474d5fd14f0/77238_Prod.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1"
+  },
+  {
     "id":             42173,
-    "name":           "$50 Koenigsegg Jesko Absolut Grey Hypercar",
-    "purchase":       "https://www.lego.com/en-us/product/koenigsegg-jesko-absolut-grey-hypercar-42173",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltc4ee2c0da944140f/42173.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    "name":           "$50 Koenigsegg Jesko Absolut White Hypercar",
+    "purchase":       "https://www.lego.com/en-us/product/koenigsegg-jesko-absolut-white-hypercar-42184",
+    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltf88c9db27dc89320/42184_Prod.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1"
   }
 ]
   
+
