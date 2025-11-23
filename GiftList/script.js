@@ -31,8 +31,9 @@ function createCard(item) {
   template.querySelector('.card-img').src = item.imageFront;
   template.querySelector('.card-name').textContent = item.name;
   template.querySelector('.url').href = item.purchase;
+  template.querySelector('.card-note').textContent = item.note;
   
-  special = [1, 2, 10295]
+  special = [1, 3, 10, 11]
   if (special.includes(item.id) ) {
     template.querySelector(".card").classList.add("special")
   }
@@ -68,3 +69,4 @@ function generateCards(db) {
 }
 
 window.onload = update_data;
+
