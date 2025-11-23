@@ -18,7 +18,7 @@
     "name":           "$5+ Adafruit Gift Certificates",
     "purchase":       "https://www.adafruit.com/product/5874",
     "imageFront":     "https://cdn-shop.adafruit.com/970x728/32-01.jpg",
-    "note":           ""
+    "note":           "For controllers, motors, sensors, and more"
   },
   {
     "id":             3,
@@ -46,7 +46,7 @@
     "name":           "$10+ LEGO Gift Card",
     "purchase":       "https://www.lego.com/en-us/gift-cards/buy",
     "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt8032f96725133957/Ecom_1HY24_HeroBanner_Shark_Reindeer_800x600.png",
-    "note":           ""
+    "note":           "For getting specefic pieces"
   },
   {
     "id":             31134,
@@ -92,6 +92,7 @@
   }
 ]
   
+
 
 
 
