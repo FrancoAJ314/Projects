@@ -1,9 +1,15 @@
 [
   {
     "id":             1,
-    "name":           "$38 Vilros Raspberry Pi Zero W Basic Starter Kit With NON Soldered Header / ABS V2 / Clear",
-    "purchase":       "https://vilros.com/products/raspberry-pi-zero-w-basic-starter-kit-1?variant=39878461718622",
-    "imageFront":     "https://vilros.com/cdn/shop/files/K001_VILP210-Copy_2.webp?v=1685367427"
+    "name":           "$60 Vilros Raspberry Pi Zero 2 W MAX Kit",
+    "purchase":       "https://vilros.com/products/vilros-raspberry-pi-zero-2-w-max-kit?variant=41811208306782",
+    "imageFront":     "https://vilros.com/cdn/shop/files/K003_VILP190_edit.jpg?v=1708984209"
+  },
+  {
+    "id":             2,
+    "name":           "$20 ESP32­-S3­-DevKitC-1 - ESP32-S3-WROOM-2 - 32MB Flash 8MB PSRAM",
+    "purchase":       "https://www.adafruit.com/product/5364",
+    "imageFront":     "https://cdn-shop.adafruit.com/970x728/5364-00.jpg"
   },
   {
     "id":             3,
@@ -55,4 +61,5 @@
   }
 ]
   
+
 
