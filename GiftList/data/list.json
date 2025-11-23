@@ -3,63 +3,95 @@
     "id":             1,
     "name":           "$60 Vilros Raspberry Pi Zero 2 W MAX Kit",
     "purchase":       "https://vilros.com/products/vilros-raspberry-pi-zero-2-w-max-kit?variant=41811208306782",
-    "imageFront":     "https://vilros.com/cdn/shop/files/K003_VILP190_edit.jpg?v=1708984209"
+    "imageFront":     "https://vilros.com/cdn/shop/files/K003_VILP190_edit.jpg?v=1708984209",
+    "note":           "goes with next item"
   },
   {
     "id":             2,
-    "name":           "$20 ESP32­-S3­-DevKitC-1 - ESP32-S3-WROOM-2 - 32MB Flash 8MB PSRAM",
-    "purchase":       "https://www.adafruit.com/product/5364",
-    "imageFront":     "https://cdn-shop.adafruit.com/970x728/5364-00.jpg"
+    "name":           "$40 Raspberry Pi Camera Module 3 Standard / Standard",
+    "purchase":       "https://vilros.com/products/raspberry-pi-camera-3?variant=39874762113118",
+    "imageFront":     "https://vilros.com/cdn/shop/products/STANDARD_TOP.jpg?v=1720718548",
+    "note":           "goes with previous item"
+  },
+  {
+    "id":             10,
+    "name":           "$5+ Adafruit Gift Certificates",
+    "purchase":       "https://www.adafruit.com/product/5874",
+    "imageFront":     "https://cdn-shop.adafruit.com/970x728/32-01.jpg",
+    "note":           ""
   },
   {
     "id":             3,
+    "name":           "$20 Adafruit ESP32­-S3­-DevKitC-1 - ESP32-S3-WROOM-2 - 32MB Flash 8MB PSRAM",
+    "purchase":       "https://www.adafruit.com/product/5364",
+    "imageFront":     "https://cdn-shop.adafruit.com/970x728/5364-00.jpg",
+    "note":           ""
+  },
+  {
+    "id":             11,
+    "name":           "$25 Adafruit Feather nRF52840 Express",
+    "purchase":       "https://www.adafruit.com/product/4062",
+    "imageFront":     "https://cdn-shop.adafruit.com/970x728/4062-02.jpg",
+    "note":           "goes with next item"
+  },
+  {
+    "id":             12,
+    "name":           "$6 Adafruit MCP23017 I2C GPIO Expander Breakout - STEMMA QT / Qwiic",
+    "purchase":       "https://www.adafruit.com/product/5346",
+    "imageFront":     "https://cdn-shop.adafruit.com/970x728/5346-05.jpg",
+    "note":           "goes with previous item"
+  },
+  {
+    "id":             4,
     "name":           "$10+ LEGO Gift Card",
     "purchase":       "https://www.lego.com/en-us/gift-cards/buy",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt8032f96725133957/Ecom_1HY24_HeroBanner_Shark_Reindeer_800x600.png"
+    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt8032f96725133957/Ecom_1HY24_HeroBanner_Shark_Reindeer_800x600.png",
+    "note":           ""
   },
   {
     "id":             31134,
     "name":           "$10 Space Shuttle",
     "purchase":       "https://www.lego.com/en-us/product/space-shuttle-31134",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt35eb893e7b4c6280/31134.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt35eb893e7b4c6280/31134.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+    "note":           ""
   },
   {
     "id":             76921,
     "name":           "$27 Audi S1 e-tron quattro Race Car",
     "purchase":       "https://www.lego.com/en-us/product/audi-s1-e-tron-quattro-race-car-76921",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltf69c704e133f3955/76921.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltf69c704e133f3955/76921.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+    "note":           ""
   },
   {
     "id":             76920,
     "name":           "$27 Ford Mustang Dark Horse Sports Car",
     "purchase":       "https://www.lego.com/en-us/product/ford-mustang-dark-horse-sports-car-76920",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltbcc306ec64d4e9f0/76920.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltbcc306ec64d4e9f0/76920.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+    "note":           ""
   },
   {
     "id":             76919,
     "name":           "$27 2023 McLaren Formula 1 Race Car",
     "purchase":       "https://www.lego.com/en-us/product/mclaren-f1-team-mcl38-race-car-77251",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltad441c9411550c97/77251_Prod_en-gb.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1"
-  },
-  {
-    "id":             76924,
-    "name":           "$45 Mercedes-AMG G 63 & Mercedes-AMG SL 63",
-    "purchase":       "https://www.lego.com/en-us/product/mercedes-amg-g-63-mercedes-amg-sl-63-76924",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltbc71c879c160329c/76924.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
-  },
+    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltad441c9411550c97/77251_Prod_en-gb.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1",
+    "note":           ""
+  }
   {
     "id":             76922,
     "name":           "$50 Lamborghini Revuelto & Huracán STO",
     "purchase":       "https://www.lego.com/en-us/product/lamborghini-revuelto-huracan-sto-77238",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltd322b474d5fd14f0/77238_Prod.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1"
+    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltd322b474d5fd14f0/77238_Prod.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1",
+    "note":           ""
   },
   {
     "id":             42173,
     "name":           "$50 Koenigsegg Jesko Absolut White Hypercar",
     "purchase":       "https://www.lego.com/en-us/product/koenigsegg-jesko-absolut-white-hypercar-42184",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltf88c9db27dc89320/42184_Prod.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1"
+    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltf88c9db27dc89320/42184_Prod.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1",
+    "note":           ""
   }
 ]
   
+
 
 
