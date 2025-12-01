@@ -42,6 +42,20 @@
     "note":           "goes with previous item"
   },
   {
+    "id":             21,
+    "name":           "$50 Anker Prime Charger (200W, 6 Ports, GaN)",
+    "purchase":       "https://www.anker.com/products/a2683-anker-prime-charger-200w-6-ports-gan?variant=43856909074582",
+    "imageFront":     "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A2683141_TD01_V1.png?v=1756793949",
+    "note":           ""
+  },
+  {
+    "id":             22,
+    "name":           "$28 Digital Caliper, 0-6” Calipers",
+    "purchase":       "https://www.amazon.com/dp/B0C34PLYND?",
+    "imageFront":     "https://m.media-amazon.com/images/I/710NGM2PTML._SX522_.jpg",
+    "note":           ""
+  },
+  {
     "id":             4,
     "name":           "$10+ LEGO Gift Card",
     "purchase":       "https://www.lego.com/en-us/gift-cards/buy",
@@ -92,6 +106,7 @@
   }
 ]
   
+
 
 
 
