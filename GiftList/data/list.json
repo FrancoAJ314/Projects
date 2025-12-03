@@ -42,17 +42,31 @@
     "note":           "goes with previous item"
   },
   {
+    "id":             23,
+    "name":           "$65 Omnifixo Soldering Stand",
+    "purchase":       "https://omnifixo.com/en-us",
+    "imageFront":     "https://omnifixo.com/cdn/shop/files/Artboard41_3x_5c9de6c0-552a-4c2c-98be-ae37364287fc.png?v=1714298862&width=1946",
+    "note":           ""
+  },
+  {
     "id":             21,
-    "name":           "$50 Anker Prime Charger (200W, 6 Ports, GaN)",
+    "name":           "$80 Anker Prime Charger (200W, 6 Ports, GaN)",
     "purchase":       "https://www.anker.com/products/a2683-anker-prime-charger-200w-6-ports-gan?variant=43856909074582",
     "imageFront":     "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A2683141_TD01_V1.png?v=1756793949",
     "note":           ""
   },
   {
     "id":             22,
-    "name":           "$28 Digital Caliper, 0-6” Calipers",
+    "name":           "$36 Digital Caliper, 0-6” Calipers",
     "purchase":       "https://www.amazon.com/dp/B0C34PLYND?",
     "imageFront":     "https://m.media-amazon.com/images/I/710NGM2PTML._SX522_.jpg",
+    "note":           ""
+  },
+  {
+    "id":             24,
+    "name":           "$56 Fanttik E2 Max Mini Electric Screwdriver",
+    "purchase":       "https://www.amazon.com/dp/B0DSVLG2LY?tag=js46369-20&language=en_US",
+    "imageFront":     "https://m.media-amazon.com/images/I/61knAfrEPuL._AC_SX679_.jpg",
     "note":           ""
   },
   {
@@ -106,6 +120,7 @@
   }
 ]
   
+
 
 
 
