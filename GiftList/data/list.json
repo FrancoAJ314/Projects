@@ -21,41 +21,6 @@
     "note":           "For controllers, motors, sensors, and more"
   },
   {
-    "id":             3,
-    "name":           "$20 Adafruit ESP32­-S3­-DevKitC-1 - ESP32-S3-WROOM-2 - 32MB Flash 8MB PSRAM",
-    "purchase":       "https://www.adafruit.com/product/5364",
-    "imageFront":     "https://cdn-shop.adafruit.com/970x728/5364-00.jpg",
-    "note":           ""
-  },
-  {
-    "id":             11,
-    "name":           "$25 Adafruit Feather nRF52840 Express",
-    "purchase":       "https://www.adafruit.com/product/4062",
-    "imageFront":     "https://cdn-shop.adafruit.com/970x728/4062-02.jpg",
-    "note":           "goes with next item"
-  },
-  {
-    "id":             12,
-    "name":           "$6 Adafruit MCP23017 I2C GPIO Expander Breakout - STEMMA QT / Qwiic",
-    "purchase":       "https://www.adafruit.com/product/5346",
-    "imageFront":     "https://cdn-shop.adafruit.com/970x728/5346-05.jpg",
-    "note":           "goes with previous item"
-  },
-  {
-    "id":             23,
-    "name":           "$65 Omnifixo Soldering Stand",
-    "purchase":       "https://omnifixo.com/en-us",
-    "imageFront":     "https://omnifixo.com/cdn/shop/files/Artboard41_3x_5c9de6c0-552a-4c2c-98be-ae37364287fc.png?v=1714298862&width=1946",
-    "note":           ""
-  },
-  {
-    "id":             21,
-    "name":           "$80 Anker Prime Charger (200W, 6 Ports, GaN)",
-    "purchase":       "https://www.anker.com/products/a2683-anker-prime-charger-200w-6-ports-gan?variant=43856909074582",
-    "imageFront":     "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A2683141_TD01_V1.png?v=1756793949",
-    "note":           ""
-  },
-  {
     "id":             22,
     "name":           "$36 Digital Caliper, 0-6” Calipers",
     "purchase":       "https://www.amazon.com/dp/B0C34PLYND?",
@@ -84,13 +49,6 @@
     "note":           ""
   },
   {
-    "id":             76921,
-    "name":           "$27 Audi S1 e-tron quattro Race Car",
-    "purchase":       "https://www.lego.com/en-us/product/audi-s1-e-tron-quattro-race-car-76921",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltf69c704e133f3955/76921.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
-    "note":           ""
-  },
-  {
     "id":             76920,
     "name":           "$27 Ford Mustang Dark Horse Sports Car",
     "purchase":       "https://www.lego.com/en-us/product/ford-mustang-dark-horse-sports-car-76920",
@@ -110,16 +68,10 @@
     "purchase":       "https://www.lego.com/en-us/product/lamborghini-revuelto-huracan-sto-77238",
     "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltd322b474d5fd14f0/77238_Prod.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1",
     "note":           ""
-  },
-  {
-    "id":             42173,
-    "name":           "$50 Koenigsegg Jesko Absolut White Hypercar",
-    "purchase":       "https://www.lego.com/en-us/product/koenigsegg-jesko-absolut-white-hypercar-42184",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltf88c9db27dc89320/42184_Prod.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1",
-    "note":           ""
   }
 ]
   
+
 
 
 
