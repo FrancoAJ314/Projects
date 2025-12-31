@@ -21,20 +21,6 @@
     "note":           "For controllers, motors, sensors, and more"
   },
   {
-    "id":             22,
-    "name":           "$36 Digital Caliper, 0-6” Calipers",
-    "purchase":       "https://www.amazon.com/dp/B0C34PLYND?",
-    "imageFront":     "https://m.media-amazon.com/images/I/710NGM2PTML._SX522_.jpg",
-    "note":           ""
-  },
-  {
-    "id":             24,
-    "name":           "$56 Fanttik E2 Max Mini Electric Screwdriver",
-    "purchase":       "https://www.amazon.com/dp/B0DSVLG2LY?tag=js46369-20&language=en_US",
-    "imageFront":     "https://m.media-amazon.com/images/I/61knAfrEPuL._AC_SX679_.jpg",
-    "note":           ""
-  },
-  {
     "id":             4,
     "name":           "$10+ LEGO Gift Card",
     "purchase":       "https://www.lego.com/en-us/gift-cards/buy",
@@ -71,6 +57,7 @@
   }
 ]
   
+
 
 
 
