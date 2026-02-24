@@ -28,35 +28,15 @@
     "note":           "For getting specefic pieces"
   },
   {
-    "id":             31134,
-    "name":           "$10 Space Shuttle",
-    "purchase":       "https://www.lego.com/en-us/product/space-shuttle-31134",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt35eb893e7b4c6280/31134.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
-    "note":           ""
-  },
-  {
-    "id":             76920,
-    "name":           "$27 Ford Mustang Dark Horse Sports Car",
-    "purchase":       "https://www.lego.com/en-us/product/ford-mustang-dark-horse-sports-car-76920",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltbcc306ec64d4e9f0/76920.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
-    "note":           ""
-  },
-  {
     "id":             76919,
-    "name":           "$27 2023 McLaren Formula 1 Race Car",
-    "purchase":       "https://www.lego.com/en-us/product/mclaren-f1-team-mcl38-race-car-77251",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltad441c9411550c97/77251_Prod_en-gb.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1",
-    "note":           ""
-  },
-  {
-    "id":             76922,
-    "name":           "$50 Lamborghini Revuelto & Huracán STO",
-    "purchase":       "https://www.lego.com/en-us/product/lamborghini-revuelto-huracan-sto-77238",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/bltd322b474d5fd14f0/77238_Prod.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1",
+    "name":           "$27 Oracle Red Bull Racing RB20 F1® Race Car",
+    "purchase":       "https://www.lego.com/en-us/product/oracle-red-bull-racing-rb20-f1-race-car-77243",
+    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt8dac22afe99a2c70/77243_Prod_en-gb.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1",
     "note":           ""
   }
 ]
   
+
 
 
 
