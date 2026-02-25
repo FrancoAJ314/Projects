@@ -1,8 +1,8 @@
 [
   {
     "id":             1,
-    "name":           "$60 Vilros Raspberry Pi Zero 2 W MAX Kit",
-    "purchase":       "https://vilros.com/products/vilros-raspberry-pi-zero-2-w-max-kit?variant=41811208306782",
+    "name":           "$60 Raspberry Pi Zero 2 W MAX Kit",
+    "purchase":       "https://vilros.com/cdn/shop/files/K003_VILP190_edit.jpg?v=1708984209",
     "imageFront":     "https://vilros.com/cdn/shop/files/K003_VILP190_edit.jpg?v=1708984209",
     "note":           "goes with next item"
   },
@@ -21,6 +21,20 @@
     "note":           "For controllers, motors, sensors, and more"
   },
   {
+    "id":             20,
+    "name":           "$60 Void Switches",
+    "purchase":       "https://www.lofree.co/products/void-low-profile-pom-switches?_pos=1&_fid=14d04f020&_ss=c",
+    "imageFront":     "https://www.lofree.co/cdn/shop/files/Void_Switch_PI02.webp?v=1752665582&width=1400",
+    "note":           "For custom keyboard project"
+  },
+  {
+    "id":             21,
+    "name":           "$28 Oasis GATERON Low Profile Dye-Sub PBT Full Keycap Set Nature Series",
+    "purchase":       "https://www.gateron.com/products/gateron-low-profile-dye-sub-pbt-full-keycap-set-nature-series?VariantsId=10878",
+    "imageFront":     "https://ueeshop.ly200-cdn.com/u_file/UPAW/UPAW819/2510/14/products/gasdqwqae.png?x-oss-process=image/quality,q_100/resize,m_lfit,h_1000,w_1000",
+    "note":           "For custom keyboard project"
+  },
+  {
     "id":             4,
     "name":           "$10+ LEGO Gift Card",
     "purchase":       "https://www.lego.com/en-us/gift-cards/buy",
@@ -36,6 +50,7 @@
   }
 ]
   
+
 
 
 
