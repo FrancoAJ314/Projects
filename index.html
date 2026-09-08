@@ -1,66 +1,326 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="google" content="notranslate">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="script.js"></script>
     <link rel="stylesheet" href="style.css">
-    <title>Antonio Franco</title>
+    <link rel="icon" type="image/webp" href="AF Logo.svg">
+    <title lang="en">Antonio Franco</title>
+    <link rel="icon" type="image/webp" href="AF_Logo.svg">
 </head>
-<body class="center">
-    <div class="projects">
-        <!-- Up To Launch -->
-        <details>
-            <summary class="inline">
-                <div>
-                    <h1>Up To Launch</h1>
-                    <p>Python script</p>
-                    <p>This script uses the Launch Library 2 api to get the info I want for upcomming rocket launches. The data gets displayed as a desktop notification every hour. It makes it easier to plan for taking pictures of local launches.</p>
-                </div>
-                <img class="previewImg" src="media/UTL_Toast.webp" alt="">
-            </summary>            
-            
-            <div class="col">
-                <div class="content" id="cards-container">
-                </div>
-            </div>
-            
-             
-        </details>
-        <!-- Launch View -->
-        <details>
-            <summary class="inline">
-                <div>
-                    <h1>Launch View</h1>
-                    <p>Static website</p>
-                    <p>This is my first website - It reads rocket flight path data & visuailizes it.</p>
-                    <a href="https://launchview.francoaj.com/">launchview.francoaj.com</a>
-                </div>
-                <img class="previewImg" src="media/LV_Preview.webp" alt="">
-            </summary>             
-            <img src="media/LV_Preview.webp" alt="">
-        </details>
-        <!-- Drive Photos -->
-        <details>
-            <summary class="inline">
-                <div>
-                    <h1>Drive Photos</h1>
-                    <p>Python script</p>
-                    <p>---</p>
-                </div>
-                <img class="previewImg" src="" alt="">
-            </summary>             
-        </details>
-        <!-- Brick-Tools -->
-        <details>
-            <summary class="inline">
-                <div>
-                    <h1>Brick-Tools</h1>
-                    <p>Website with Database</p>
-                    <p>---</p>
-                </div>
-                <img class="previewImg" src="" alt="">
-            </summary>             
-        </details>
-    </div>
+<body>
+
+  <svg
+    width="100vw"
+    height="100vh"
+    viewBox="0 0 1000 1000"
+    version="1.1"
+    id="innerMap"
+    xml:space="preserve"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    
+    <defs>
+      <linearGradient
+        id="linearGradientOrbit1">
+        <stop
+          style="stop-color:#000000;stop-opacity:0;"
+          offset="0.9"
+          id="stop85375" /><stop
+          style="stop-color:#797979;stop-opacity:1;"
+          offset="0.95"
+          id="stop85367" /><stop
+          style="stop-color:#000000;stop-opacity:0;"
+          offset="1"
+          id="stop85369" />
+      </linearGradient>
+      <linearGradient
+        id="linearGradientOrbit2">
+        <stop
+          style="stop-color:#000000;stop-opacity:0;"
+          offset="0.9"
+          id="stop85375" /><stop
+          style="stop-color:#797979;stop-opacity:1;"
+          offset="0.95"
+          id="stop85367" /><stop
+          style="stop-color:#000000;stop-opacity:0;"
+          offset="1"
+          id="stop85369" />
+      </linearGradient>
+      <linearGradient
+        id="linearGradientOrbit3">
+        <stop
+          style="stop-color:#000000;stop-opacity:0;"
+          offset="0.9"
+          id="stop85375" /><stop
+          style="stop-color:#797979;stop-opacity:1;"
+          offset="0.95"
+          id="stop85367" /><stop
+          style="stop-color:#000000;stop-opacity:0;"
+          offset="1"
+          id="stop85369" />
+      </linearGradient>
+      <linearGradient
+        id="linearGradientOrbit4">
+        <stop
+          style="stop-color:#000000;stop-opacity:0;"
+          offset="0.9"
+          id="stop85375" /><stop
+          style="stop-color:#797979;stop-opacity:1;"
+          offset="0.95"
+          id="stop85367" /><stop
+          style="stop-color:#000000;stop-opacity:0;"
+          offset="1"
+          id="stop85369" />
+      </linearGradient>
+
+      <radialGradient
+        id="radialGradientOrbit1"
+        xlink:href="#linearGradientOrbit1"
+        cx="0.5"
+        cy="0.5"
+        fx="0.5"
+        fy="0.5"
+        r="0.5"
+        gradientUnits="objectBoundingBox" />
+      <radialGradient
+        id="radialGradientOrbit2"
+        xlink:href="#linearGradientOrbit2"
+        cx="0.5"
+        cy="0.5"
+        fx="0.5"
+        fy="0.5"
+        r="0.5"
+        gradientUnits="objectBoundingBox" />
+      <radialGradient
+        id="radialGradientOrbit3"
+        xlink:href="#linearGradientOrbit3"
+        cx="0.5"
+        cy="0.5"
+        fx="0.5"
+        fy="0.5"
+        r="0.5"
+        gradientUnits="objectBoundingBox" />
+      <radialGradient
+        id="radialGradientOrbit4"
+        xlink:href="#linearGradientOrbit4"
+        cx="0.5"
+        cy="0.5"
+        fx="0.5"
+        fy="0.5"
+        r="0.5"
+        gradientUnits="objectBoundingBox" />
+
+
+      <radialGradient
+        id="sphere-shader"
+        gradientUnits="objectBoundingBox"
+        cx="0.35"
+        cy="0.3"
+        r="0.6"
+        fx="0.35"
+        fy="0.3">
+        <stop offset="0%" stop-color="white" stop-opacity="0.7"/>
+        <stop offset="60%" stop-color="white" stop-opacity="0.15"/>
+        <stop offset="100%" stop-color="black" stop-opacity="0.3"/>
+      </radialGradient>
+
+
+
+        <linearGradient id="fadeBlack">
+          <stop offset="0" stop-color="#808080ff" stop-opacity="1"/>
+          <stop offset="1" stop-color="#000" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient
+          id="mercuryPath"
+          xlink:href="#fadeBlack"
+          gradientUnits="userSpaceOnUse"
+          x1="0"
+          y1="0"
+          x2="100"
+          y2="-50"/>
+          
+    </defs>
+
+    <g id="mapLayer1" transform="translate(0,0)">
+      <g id="orbits">
+        <ellipse
+          style="display:inline;fill:url(#radialGradientOrbit1);stroke-opacity:1;paint-order:stroke markers fill"
+          id="orbit1"
+          cx="0"
+          cy="0"
+          rx="100"
+          ry="100" />
+       <ellipse
+         style="display:inline;fill:url(#radialGradientOrbit2);stroke-opacity:1;paint-order:stroke markers fill"
+         id="orbit2"
+         cx="0"
+         cy="0"
+         rx="400"
+         ry="400" />
+       <ellipse
+         style="display:inline;fill:url(#radialGradientOrbit3);stroke-opacity:1;paint-order:stroke markers fill"
+         id="orbit3"
+         cx="0"
+         cy="0"
+         rx="400"
+         ry="400" />
+         <ellipse
+         style="display:inline;fill:url(#radialGradientOrbit4);stroke-opacity:1;paint-order:stroke markers fill"
+         id="orbit4"
+         cx="0"
+         cy="0"
+         rx="400"
+         ry="400" />
+      </g>
+
+      <g id="trails"></g>
+
+     <!-- <ellipse
+       style="display:inline;fill:blue;stroke-opacity:1;paint-order:stroke markers fill"
+       id="orbits"
+       cx="0"
+       cy="0"
+       rx="10"
+       ry="10" /> -->
+
+
+       <g id="bodies">
+         <circle
+           id="sunSolid"
+           fill="#F2C94C"
+            cx="0" 
+            cy="0" 
+            r="10" />
+         <circle
+           id="shader-sun"
+           style="mix-blend-mode:luminosity;fill:url(#sphere-shader);"
+           cy="0"
+           cx="0"
+           r="10" />
+   
+         <circle
+           id="mercurySolid"
+           fill="#A99B8E"
+            cx="0" 
+            cy="-100" 
+            r="10" />
+           <circle
+           id="shader-mercury"
+           style="mix-blend-mode:luminosity;fill:url(#sphere-shader);"
+           cy="0"
+           cx="0"
+           r="10" />
+   
+         <circle
+           id="venusSolid"
+           fill="#E6D9A3"
+            cx="0" 
+            cy="-200" 
+            r="10" />
+         <circle
+           id="shader-venus"
+           style="mix-blend-mode:luminosity;fill:url(#sphere-shader);"
+           cy="0"
+           cx="0"
+           r="10" />
+   
+         <circle
+           id="earthSolid"
+           fill="#2F5F9E"
+            cx="0" 
+            cy="-300" 
+            r="10" />
+         <circle
+           id="shader-earth"
+           style="mix-blend-mode:luminosity;fill:url(#sphere-shader);"
+           cy="0"
+           cx="0"
+           r="10" />
+   
+         <circle
+           id="marsSolid"
+           fill="#B14A2F"
+            cx="0" 
+            cy="-400" 
+            r="10" />
+         <circle
+           id="shader-mars"
+           style="mix-blend-mode:luminosity;fill:url(#sphere-shader);"
+           cy="0"
+           cx="0"
+           r="10" />
+   
+   
+         <circle
+           id="moonSolid"
+           fill="green"
+            cx="0" 
+            cy="0" 
+            r="10" />
+         <circle
+           id="shader-moon"
+           style="mix-blend-mode:luminosity;fill:url(#sphere-shader);"
+           cy="0"
+           cx="0"
+           r="10" />
+   
+         <circle
+           id="phobosSolid"
+           fill="blue"
+            cx="0" 
+            cy="0" 
+            r="10" />
+         <circle
+           id="shader-phobos"
+           style="mix-blend-mode:luminosity;fill:url(#sphere-shader);"
+           cy="0"
+           cx="0"
+           r="10" />
+   
+         <circle
+           id="deimosSolid"
+           fill="green"
+            cx="0" 
+            cy="0" 
+            r="10" />
+         <circle
+           id="shader-deimos"
+           style="mix-blend-mode:luminosity;fill:url(#sphere-shader);"
+           cy="0"
+           cx="0"
+           r="10" />
+       </g>
+    </g>
+  </svg>
+  <div id="content">
+	<div>
+		<h1>3-DOF Robotic Leg</h1>
+		<p>Designed mechanics and coded inverse mechanics (Python)</p>
+		<img src=""></img>
+		<img src=""></img>
+	</div>
+	  <div id="air_sensor">
+		<h1>Air Sensor</h1>
+		<p>Designed code (C), Circuit (EPS32-C6), and housing (OnShape; 3D Printing)</p>
+		  <img src="Media/AirSensor.png"></img>
+		  <img src="Media/AirSensor_exploded.png"></img>
+	  </div>
+	<div id="axial_flux_alternator">
+		<h1>Axial Flux Alternator</h1>
+		<p>Designed 3D printed components</p>
+		<img src="Media/axial.jpeg"></img>
+		<img src="Media/axial_exploded.jpeg"></img>
+	</div>
+	<div>
+		<h1>Up To Launch</h1>
+		<p>Python script using an API (LL2) to fetch specific info on the next upcoming local rocket launch and displays it as a toast popup<p>
+		<img src="/Media/UTL_Toast.webp"></img>
+	</div>
+  </div>
+
+
+    <script src="script.js"></script>
 </body>
 </html>
