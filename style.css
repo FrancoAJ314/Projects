@@ -76,7 +76,7 @@ body {
 	background-color: #31415926;
 	margin: 0.5rem;
 	padding: 1rem;
-	width: 1068px;
+	max-width: 1068px;
 }
 #content img {
 	width: 512px;
