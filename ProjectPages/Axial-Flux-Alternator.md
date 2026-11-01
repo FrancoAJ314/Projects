@@ -4,7 +4,7 @@ Designed and built by Ventura College’s Engineering Society
 
 Project led by Antonio Franco and Wyatt Schmitz
 
-![Final Assembly](.attachments.38595/image.png)
+![Final Assembly](assembled-alternator.png)
 
 ## Specifications
 
@@ -24,4 +24,4 @@ Halbach array
 
 The magnets are press fit into the 3D printed rotor and glued in place. To keep a tight fit, dog-bone fillets are used.
 
-![Radial magnet slot in rotor](.attachments.38595/image%20%282%29.png)
+![Radial magnet slot in rotor](.alternator-radial-magnet-slot.png)
