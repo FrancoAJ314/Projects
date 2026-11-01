@@ -24,4 +24,4 @@ Halbach array
 
 The magnets are press fit into the 3D printed rotor and glued in place. To keep a tight fit, dog-bone fillets are used.
 
-![Radial magnet slot in rotor](.alternator-radial-magnet-slot.png)
+![Radial magnet slot in rotor](alternator-radial-magnet-slot.png)
