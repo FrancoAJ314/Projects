@@ -1,38 +1,17 @@
 [
   {
-    "id":             1,
-    "name":           "$60 Raspberry Pi Zero 2 W MAX Kit",
-    "purchase":       "https://vilros.com/cdn/shop/files/K003_VILP190_edit.jpg?v=1708984209",
-    "imageFront":     "https://vilros.com/cdn/shop/files/K003_VILP190_edit.jpg?v=1708984209",
-    "note":           "goes with next item"
-  },
-  {
-    "id":             2,
-    "name":           "$40 Raspberry Pi Camera Module 3 Standard / Standard",
-    "purchase":       "https://vilros.com/products/raspberry-pi-camera-3?variant=39874762113118",
-    "imageFront":     "https://vilros.com/cdn/shop/products/STANDARD_TOP.jpg?v=1720718548",
-    "note":           "goes with previous item"
-  },
-  {
     "id":             10,
+    "name":           "$120 Fairbuds 2",
+    "purchase":       "https://us.fairphone.com/fairbuds-2",
+    "imageFront":     "https://us.fairphone.com/web/image/product.product/152/image_1920?unique=27ec4c2",
+    "note":           "new earbuds"
+  },
+  {
+    "id":             0,
     "name":           "$5+ Adafruit Gift Certificates",
     "purchase":       "https://www.adafruit.com/product/5874",
-    "imageFront":     "https://cdn-shop.adafruit.com/970x728/32-01.jpg",
+    "imageFront":     "https://cdn-shop.adafruit.com/970x728/5874-01.jpg",
     "note":           "For controllers, motors, sensors, and more"
-  },
-  {
-    "id":             20,
-    "name":           "$60 Void Switches",
-    "purchase":       "https://www.lofree.co/products/void-low-profile-pom-switches?_pos=1&_fid=14d04f020&_ss=c",
-    "imageFront":     "https://www.lofree.co/cdn/shop/files/Void_Switch_PI02.webp?v=1752665582&width=1400",
-    "note":           "For custom keyboard project"
-  },
-  {
-    "id":             21,
-    "name":           "$28 Oasis GATERON Low Profile Dye-Sub PBT Full Keycap Set Nature Series",
-    "purchase":       "https://www.gateron.com/products/gateron-low-profile-dye-sub-pbt-full-keycap-set-nature-series?VariantsId=10878",
-    "imageFront":     "https://ueeshop.ly200-cdn.com/u_file/UPAW/UPAW819/2510/14/products/gasdqwqae.png?x-oss-process=image/quality,q_100/resize,m_lfit,h_1000,w_1000",
-    "note":           "For custom keyboard project"
   },
   {
     "id":             4,
@@ -40,13 +19,6 @@
     "purchase":       "https://www.lego.com/en-us/gift-cards/buy",
     "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt8032f96725133957/Ecom_1HY24_HeroBanner_Shark_Reindeer_800x600.png",
     "note":           "For getting specefic pieces"
-  },
-  {
-    "id":             76919,
-    "name":           "$27 Oracle Red Bull Racing RB20 F1® Race Car",
-    "purchase":       "https://www.lego.com/en-us/product/oracle-red-bull-racing-rb20-f1-race-car-77243",
-    "imageFront":     "https://www.lego.com/cdn/cs/set/assets/blt8dac22afe99a2c70/77243_Prod_en-gb.png?format=webply&fit=bounds&quality=75&width=1200&height=1200&dpr=1",
-    "note":           ""
   }
 ]
   
