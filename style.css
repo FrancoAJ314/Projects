@@ -105,12 +105,14 @@ body {
   text-align: center;
 }
 
-a {
+#resume-link {
   position: fixed;
   z-index: 1;
   width: 100vw;
   display: flex;
   justify-content: center;
+}
+a {
   color: #92ebff;
 }
 a:visited {
