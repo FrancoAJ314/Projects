@@ -52,7 +52,7 @@ The enclosure assembles without screws, fasteners, or other added parts. Dovetai
 
 I printed the enclosure in PLA on a Bambu Lab P1S. PLA was suitable for this indoor application, where the enclosure does not need to withstand high temperatures.
 
- ![[airsensor-cad-exploded.png]]
+![[https://francoaj.com/Media/AirSensor_exploded.png]]
 
 ## Firmware and software
 
