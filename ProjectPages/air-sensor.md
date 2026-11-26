@@ -1,6 +1,6 @@
 ### A bedroom air-quality monitor and data dashboard
 
-![[airsensor-on-table.jpg]]
+!(airsensor-on-table.jpg)
 
 Airspace is a connected air monitor I built for my bedroom, which also serves as my workspace. It measures nine air-quality and environmental readings, displays current conditions and recent trends on an e-paper screen, and sends raw measurements to a Raspberry Pi for storage. I designed and 3D-printed a custom enclosure to make the electronics feel at home in a living space.
 
@@ -42,7 +42,7 @@ The graph connects the interval medians with lines. One horizontal pixel represe
 
 I chose monochrome e-paper for the current build. The display is also available in tri-color, so a future version could use its additional color to make poor air quality stand out more clearly.
 
-![[airsensor-display.png]]
+!(airsensor-display.png)
 
 ## Enclosure design
 
@@ -52,7 +52,7 @@ The enclosure assembles without screws, fasteners, or other added parts. Dovetai
 
 I printed the enclosure in PLA on a Bambu Lab P1S. PLA was suitable for this indoor application, where the enclosure does not need to withstand high temperatures.
 
-![[https://francoaj.com/Media/AirSensor_exploded.png]]
+!(https://francoaj.com/Media/AirSensor_exploded.png)
 
 ## Firmware and software
 
