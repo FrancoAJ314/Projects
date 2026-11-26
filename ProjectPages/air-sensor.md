@@ -1,6 +1,6 @@
 ### A bedroom air-quality monitor and data dashboard
 
-![[airsensor-on-table.png]]
+![[airsensor-on-table.jpg]]
 
 Airspace is a connected air monitor I built for my bedroom, which also serves as my workspace. It measures nine air-quality and environmental readings, displays current conditions and recent trends on an e-paper screen, and sends raw measurements to a Raspberry Pi for storage. I designed and 3D-printed a custom enclosure to make the electronics feel at home in a living space.
 
